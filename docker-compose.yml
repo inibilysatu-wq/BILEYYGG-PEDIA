@@ -19,12 +19,12 @@ x-common:
     # LE_EMAIL: ""
   mail:
     &mail-environment
-    MAIL_FROM: "noreply@example.com"
+    MAIL_FROM: "inibilysatu@gmail.com"
     MAIL_DRIVER: "smtp"
     MAIL_HOST: "mail"
     MAIL_PORT: "1025"
-    MAIL_USERNAME: ""
-    MAIL_PASSWORD: ""
+    MAIL_USERNAME: "bileey"
+    MAIL_PASSWORD: "bileey321"
     MAIL_ENCRYPTION: "true"
  
 #
